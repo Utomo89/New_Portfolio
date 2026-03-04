@@ -31,7 +31,7 @@ export default function Work() {
               initial={{ opacity: 0, y: 16 }}
               animate={inView ? { opacity: 1, y: 0 } : {}}
               transition={{ duration: 0.5 }}
-              className="text-xs font-medium tracking-widest uppercase text-[#A8A49E] mb-4"
+              className="text-l font-medium tracking-widest uppercase text-[#A8A49E] mb-4"
             >
               Selected work
             </Motion.p>

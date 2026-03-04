@@ -116,7 +116,7 @@ export default function About() {
           initial="hidden"
           animate={inView ? "visible" : "hidden"}
           custom={0}
-          className="text-xs font-medium tracking-widest uppercase text-[#A8A49E] text-center md:text-left"
+          className="text-l font-medium tracking-widest uppercase text-[#A8A49E] text-center md:text-left"
         >
           About me
         </Motion.p>

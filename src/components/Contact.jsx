@@ -46,7 +46,7 @@ export default function Contact() {
             initial={{ opacity: 0, y: 16 }}
             animate={inView ? { opacity: 1, y: 0 } : {}}
             transition={{ duration: 0.5 }}
-            className="text-xs font-medium tracking-widest uppercase text-white/30 mb-5"
+            className="text-l font-medium tracking-widest uppercase text-white mb-5"
           >
             Contact
           </Motion.p>
@@ -58,7 +58,7 @@ export default function Contact() {
             className="font-serif font-light text-4xl md:text-5xl tracking-tight text-white mb-5 leading-[1.15]"
           >
             Let's build something{" "}
-            <em className="not-italic text-white/40">together.</em>
+            <em className="not-italic text-white">together.</em>
           </Motion.h2>
 
           <Motion.p
