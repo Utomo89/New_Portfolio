@@ -41,7 +41,7 @@ export const projectCategories = ["All", "Frontend", "AI", "FullStack"];
 export const projects = [
   {
     number: "01",
-    name: "Potato Disease leaf (academic project)",
+    name: "Potato Disease leaf (Academic Project)",
     category: "AI",
     description: "Developed a CNN model using TensorFlow & Keras to detect potato leaf diseases, including data preprocessing and augmentation. The model successfully achieved over 90% accuracy on the test data.",
     stack: ["Next.js", "Tailwind CSS", "Python", "TensorFlow", "Keras"],
@@ -54,7 +54,7 @@ export const projects = [
   },
   {
     number: "02",
-    name: "Waste Bank Management System (freelance)",
+    name: "Waste Bank Management System (Freelance)",
     category: "FullStack",
     description: "Built a web-based waste management system using Laravel 12 and Laravel Breeze, featuring role-based authentication, batch management, automated transaction calculations, and a real-time statistics dashboard to streamline operational efficiency.",
     stack: ["Laravel 12", "TailwindCSS", "PHP", "SQLite"],
@@ -69,7 +69,7 @@ export const projects = [
   },
   {
     number: "03",
-    name: "UD.Al-karomah Landing Page (freelance)",
+    name: "UD.Al-karomah Landing Page (Freelance)",
     category: "Frontend",
     description: "Engineered a responsive landing page frontend seamlessly integrated with a Laravel 12-powered admin dashboard, enabling UMKM owners to independently manage and update content without technical intervention.",
     stack: ["HTML", "CSS", "Javascript"],
@@ -83,7 +83,7 @@ export const projects = [
   },
   {
     number: "04",
-    name: "UD.Al-Pandawalima Landing Page (freelance)",
+    name: "UD.Al-Pandawalima Landing Page (Freelance)",
     category: "Frontend",
     description: "Engineered a responsive landing page frontend seamlessly integrated with a Laravel 12-powered admin dashboard, enabling UMKM owners to independently manage and update content without technical intervention.",
     stack: ["HTML", "CSS", "Javascript"],
