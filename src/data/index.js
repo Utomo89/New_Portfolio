@@ -81,21 +81,34 @@ export const projects = [
     link: "https://ud-al-karomah.my.id/",
     github: "#",
   },
-  // {
-  //   number: "04",
-  //   name: "Innovative Home Training Registration Information System",
-  //   category: "Frontend",
-  //   description: "Built a Laravel 11 web application for managing training participant data, featuring training registration and search for users, alongside an admin module for managing training programs, participants, and enrollment reports.",
-  //   stack: ["PHP", "Laravel 11", "SQLite", "CSS", "HTML", "Javascript"],
-  //   image: "https://res.cloudinary.com/dnjak65ws/image/upload/v1772432325/UD.Al-karomah_vxw4qa.png",
-  //   images: [                 
-  //   "https://images.unsplash.com/photo-1618477388954-7852f32655ec?w=1200&q=80",
-  //   "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&q=80",
-  //   "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=1200&q=80",
-  // ],
-  //   link: null,
-  //   github: "#",
-  // },
+  {
+    number: "04",
+    name: "UD.Al-Pandawalima Landing Page",
+    category: "Frontend",
+    description: "Engineered a responsive landing page frontend seamlessly integrated with a Laravel 12-powered admin dashboard, enabling UMKM owners to independently manage and update content without technical intervention.",
+    stack: ["HTML", "CSS", "Javascript"],
+    image: "https://res.cloudinary.com/dnjak65ws/image/upload/v1773048471/UD.Pandawalima_v4abak.png",
+    images: [                 
+    "https://res.cloudinary.com/dnjak65ws/image/upload/v1773049867/pandawa1_wkkpyu.png",
+    "https://res.cloudinary.com/dnjak65ws/image/upload/v1773049867/pandawa2_vkymd3.png",
+  ],
+    link: "https://ud-pandawa-lima.my.id/",
+    github: "#",
+  },
+  {
+    number: "05",
+    name: "Innovative Home Training Registration Information System (Remake only frontend)",
+    category: "Frontend",
+    description: "Built a React for a frontend. This a web application for managing training participant data, featuring training registration and search for users, alongside an admin module for managing training programs, participants, and enrollment reports.",
+    stack: ["React.js", "tailwind"],
+    image: "https://res.cloudinary.com/dnjak65ws/image/upload/v1773048470/Komdigi_qrwysk.png",
+    images: [                 
+    "https://res.cloudinary.com/dnjak65ws/image/upload/v1773049867/komdigi_1_gogi4k.png",
+    "https://res.cloudinary.com/dnjak65ws/image/upload/v1773049867/komdigi_2_iqotjp.png",
+  ],
+    link: "https://pendaftaran-remake.netlify.app/",
+    github: "#",
+  },
 ];
 
 export const experiences = [
