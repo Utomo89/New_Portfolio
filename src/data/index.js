@@ -97,7 +97,7 @@ export const projects = [
   },
   {
     number: "05",
-    name: "Innovative Home Training Registration Information System (Remake only frontend)",
+    name: "Innovative Home Training Registration Information System (Intern : Remake only frontend)",
     category: "Frontend",
     description: "Built a React for a frontend. This a web application for managing training participant data, featuring training registration and search for users, alongside an admin module for managing training programs, participants, and enrollment reports.",
     stack: ["React.js", "tailwind"],
