@@ -100,7 +100,7 @@ export const projects = [
     name: "Innovative Home Training Registration Information System (Intern : Remake only frontend)",
     category: "Frontend",
     description: "Built a React for a frontend. This a web application for managing training participant data, featuring training registration and search for users, alongside an admin module for managing training programs, participants, and enrollment reports.",
-    stack: ["React.js", "tailwind"],
+    stack: ["React.js", "TailwindCSS"],
     image: "https://res.cloudinary.com/dnjak65ws/image/upload/v1773048470/Komdigi_qrwysk.png",
     images: [                 
     "https://res.cloudinary.com/dnjak65ws/image/upload/v1773049867/komdigi_1_gogi4k.png",
