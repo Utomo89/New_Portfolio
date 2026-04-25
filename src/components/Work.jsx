@@ -1,7 +1,8 @@
 import { useRef, useState } from "react";
 import { motion as Motion, useInView, AnimatePresence } from "framer-motion";
 import { ArrowUpRight, Github } from "lucide-react";
-import { projects, projectCategories, personalInfo } from "../data";
+import { personalInfo } from "../data/index";
+import { projects, projectCategories } from "../data/project";
 import ProjectModal from "./ProjectModal";
 
 export default function Work() {

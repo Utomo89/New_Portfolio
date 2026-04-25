@@ -4,6 +4,7 @@ import About from "./components/About";
 import Work from "./components/Work";
 import Experience from "./components/Experience";
 import Contact from "./components/Contact";
+import Certification from "./components/Certification";
 
 export default function App() {
   return (
@@ -13,6 +14,7 @@ export default function App() {
       <About />      
       <Experience />
       <Work />
+      <Certification />
       <Contact />
     </main>
   );
