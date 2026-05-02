@@ -72,4 +72,18 @@ export const projects = [
     link: "https://pendaftaran-remake.netlify.app/",
     github: "#",
   },
+  {
+    number: "06",
+    name: "Job Tracker",
+    category: "Frontend",
+    description: "JobTracker is a single-page application (SPA) built entirely with React that helps job seekers record, track, and analyze their job application history. All data is stored locally in the browser using localStorage — no backend or user account required.",
+    stack: ["React.js", "TailwindCSS", "React Hook Form", "Recharts", "Lucide React"],
+    image: "https://res.cloudinary.com/dnjak65ws/image/upload/v1777721374/Job_Tracker_ddyiyt.png",
+    images: [                 
+    "https://res.cloudinary.com/dnjak65ws/image/upload/v1777721373/Dashboard_jobtracker_pavftd.png",
+    "https://res.cloudinary.com/dnjak65ws/image/upload/v1777721374/Lamaran_saya_zzwvrm.png",
+  ],
+    link: "https://tjobtracker.netlify.app/",
+    github: "#",
+  },
 ];
